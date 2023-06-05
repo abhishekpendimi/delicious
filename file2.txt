@@ -1,5 +1,6 @@
 this is file 2
 hi there	ZZ
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 added line 3
 =======
@@ -7,3 +8,5 @@ added line 3
 
 added third line
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 5442b67 (Update file2.txt)
