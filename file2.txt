@@ -1,2 +1,3 @@
 this is file 2
 hi there	ZZ
+added line 3
